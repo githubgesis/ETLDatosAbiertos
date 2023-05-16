@@ -4,6 +4,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
+        <StartObjectID>ETLConsultas01.dtsx</StartObjectID>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
